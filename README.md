@@ -4,10 +4,11 @@
   
 - 🌱 I’m currently learning React and JS
 - 📫 How to reach me: mustafa.dede.0016@gmail.com
+- <br/>
+![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafadede&show_icons=true&theme=radical)
 Also: 
  [HackerRank](https://www.hackerrank.com/alanchristuring)
- <br/>
- ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafadede&show_icons=true&theme=radical)
+ 
 <!--
 **mustafadede/mustafadede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
