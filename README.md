@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning React and JS
 - 📫 How to reach me: mustafa.dede.0016@gmail.com
 <br/>
+<br/>
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafadede&show_icons=true&theme=radical)
+<br/>
 <br/>
 Also: 
  [HackerRank](https://www.hackerrank.com/alanchristuring)
