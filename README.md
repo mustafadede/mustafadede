@@ -7,10 +7,11 @@
 
 - 🌱 I’m currently learning React and JS
 - 📫 How to reach me: mustafa.dede.0016@gmail.com
- <br/>
- Also:
- <br/>
- [Hackerrank](https://www.hackerrank.com/mustafadededev)
+  <br/>
+  Also:
+  <br/>
+  [Hackerrank](https://www.hackerrank.com/mustafadededev)
+
 
 <!--
 **mustafadede/mustafadede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
