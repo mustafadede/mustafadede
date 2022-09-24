@@ -6,8 +6,8 @@
 - 📫 How to reach me: mustafa.dede.0016@gmail.com
   <br/>
   Also:
-  <br/>
-  [Hackerrank](https://www.hackerrank.com/mustafadededev)
+ - [My portfolio site](https://mustafadede.dev/) 
+ - [Hackerrank](https://www.hackerrank.com/mustafadededev)
 
 
 <!--
