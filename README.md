@@ -1,6 +1,7 @@
 ### Hi Stranger! 👋
-
 ![Joey](https://media3.giphy.com/media/l3V0A5D73FHx4ayyI/giphy.gif?cid=790b76116ea264a818ee039db28f613ffa819a73350d79bb&rid=giphy.gif&ct=g)
+<br/>
+![](https://komarev.com/ghpvc/?username=mustafadede&color=orange)
 <br/>
 - 🌱 I’m currently learning React and JS
 - 📫 How to reach me: mustafa.dede.0016@gmail.com
