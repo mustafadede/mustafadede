@@ -9,7 +9,7 @@
   Also:
  - [My portfolio site](https://mustafadede.dev/) 
  - [Hackerrank](https://www.hackerrank.com/mustafadededev)
-
+ - [Frontend Mentor](https://www.frontendmentor.io/profile/mustafadede)
 
 <!--
 **mustafadede/mustafadede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
