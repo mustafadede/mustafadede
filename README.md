@@ -3,7 +3,7 @@
 <br/>
 ![](https://komarev.com/ghpvc/?username=mustafadede&color=orange)
 <br/>
-- 🌱 I’m currently learning React and JS
+- 🌱 I’m currently learning React,React Native and JS
 - 📫 How to reach me: mustafa.dede.0016@gmail.com
   <br/>
   Also:
