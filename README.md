@@ -12,7 +12,7 @@
  - [Hackerrank](https://www.hackerrank.com/mustafadededev)
  - [Frontend Mentor](https://www.frontendmentor.io/profile/mustafadede)
  - [Linkedin](https://www.linkedin.com/in/mustafadededev/)
-
+ - [Medium](https://medium.com/@mustafadededev)
 <!--
 **mustafadede/mustafadede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
