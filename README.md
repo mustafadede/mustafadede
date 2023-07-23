@@ -4,7 +4,7 @@
 <br/>
 ![](https://komarev.com/ghpvc/?username=mustafadede&color=orange)
 <br/>
-- 🌱 I’m currently learning Laravel, Next.js, React, React Native
+- 🌱 I’m currently learning React, React Native
 - 📫 How to reach me: mustafa.dede.0016@gmail.com
   <br/>
   Also:
