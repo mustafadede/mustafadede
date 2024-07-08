@@ -4,10 +4,12 @@
 <br/>
 ![](https://komarev.com/ghpvc/?username=mustafadede&color=orange)
 <br/>
-- 🌱 I’m currently learning React, React Native
+- 🌱 I’m currently learning TS and Expo's new features. 
+-  🔭 I’m currently working on project called SharePal. You can see the repos in the pinned section.
 - 📫 How to reach me: mustafa.dede.0016@gmail.com
   <br/>
   Also:
+ - [SharePal](https://sharepal.dev/)
  - [My portfolio site](https://mustafadede.dev/) 
  - [Hackerrank](https://www.hackerrank.com/mustafadededev)
  - [Frontend Mentor](https://www.frontendmentor.io/profile/mustafadede)
@@ -18,7 +20,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
