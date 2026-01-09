@@ -11,7 +11,7 @@
   Also:
  - [SharePal](https://sharepal.dev/)
  - [My portfolio site](https://mustafadede.dev/) 
- - [Hackerrank](https://www.hackerrank.com/mustafadededev)
+ - [Hackerrank](https://www.hackerrank.com/profile/mustafadede)
  - [Frontend Mentor](https://www.frontendmentor.io/profile/mustafadede)
  - [Linkedin](https://www.linkedin.com/in/mustafadededev/)
  - [Medium](https://medium.com/@mustafadededev)
